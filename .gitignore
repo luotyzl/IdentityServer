@@ -1,0 +1,12 @@
+﻿*.suo
+/.vs
+/bin
+/obj
+*/bin
+/bin
+src/identity.Admin/bin
+src/identity.Admin/obj/Docker
+src/identity.Admin/obj
+shared/nginx/vhost.d
+src/*/bin
+src/*/obj
